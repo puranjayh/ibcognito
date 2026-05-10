@@ -30,7 +30,7 @@ IB Cognito provides structured study resources for students in the International
 
 **Content automation pipeline**
 
-The biggest operational bottleneck early on was content management — manually formatting, tagging, and scheduling hundreds of study resources was not sustainable at scale. Built a semi-automated pipeline using WordPress hooks and custom PHP scripts to handle repetitive formatting tasks, reducing per-page publishing time significantly and allowing content to scale without proportional manual effort.
+The biggest operational bottleneck early on was content management - manually formatting, tagging, and scheduling hundreds of study resources was not sustainable at scale. Built a semi-automated pipeline using WordPress hooks and custom PHP scripts to handle repetitive formatting tasks, reducing per-page publishing time significantly and allowing content to scale without proportional manual effort.
 
 **Performance at scale**
 
@@ -40,7 +40,7 @@ Optimized page load times and caching configuration to handle traffic spikes acr
 
 ## What I learned
 
-Building IB Cognito was my first experience taking a product from zero to real scale. The hard parts weren't the code — they were figuring out why users churned, which resources actually drove retention, and how to keep a global platform running reliably on a student budget. 
+Building IB Cognito was my first experience taking a product from zero to real scale. The hard parts weren't the code - they were figuring out why users churned, which resources actually drove retention, and how to keep a global platform running reliably on a student budget. 
 
 The content automation work specifically taught me that operational leverage matters as much as product quality: the best platform is useless if you can't keep it updated.
 
